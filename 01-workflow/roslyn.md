@@ -1,2 +1,2 @@
 @ros2549	
-pending blog name
+blog name pending
